@@ -1,0 +1,15 @@
+DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo de uso de la etiqueta <time></title>
+
+        <p>Me despierto cada mañana a las <time>7:00</time> de la mañana.</p>
+
+        <p>No obstante soy feliz porque hoy es mi oportunidad, es <time datetime="2008-02-14 20:00">San Valentin</time>.</p>
+
+</head>
+<body>
+
+    
+</body>
+</html>
